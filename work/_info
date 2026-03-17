@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT
+vadder_unit
+Z1 !s110 1768488065
+!i10b 1
+!s100 SNi84666GW;UB4PQb[YJn3
+IY1bZOR3eX?OJ]98WICdkg0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1768416239
+8C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/adder.v
+FC:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1768488065.000000
+!s107 C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/adder.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu_complet
+R1
+!i10b 1
+!s100 h5@OCmf[V_NMN3C3[<SRo3
+I]eG4?1W<XDe26LH5<VNgz1
+R2
+R0
+w1768472379
+8C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_complet.v
+FC:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_complet.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_complet.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_complet.v|
+!i113 1
+R5
+R6
+valu_regs
+R1
+!i10b 1
+!s100 zMFcS@Xh3<Dh<]Z=1^Y;d0
+Il46J^7gTEaUDKZ:fOQC[X3
+R2
+R0
+w1768416288
+8C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_regs.v
+FC:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_regs.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_regs.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_regs.v|
+!i113 1
+R5
+R6
+valu_tb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R1
+!i10b 1
+!s100 Xd17aQ7mUQm;h5T9D5cF90
+IXSfEGHe:[Dk`PKJlz5kZ92
+R2
+!s105 alu_tb_sv_unit
+S1
+R0
+w1768418761
+8C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_tb.sv
+FC:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/alu_tb.sv|
+!i113 1
+R5
+R6
+vmult_div
+R1
+!i10b 1
+!s100 2G^_^K:_iKk9AjS2PfVQ;3
+ILzc2l6G]a;^nn379ThA1;3
+R2
+R0
+w1768418779
+8C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/mult_div.v
+FC:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/mult_div.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/mult_div.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/mult_div.v|
+!i113 1
+R5
+R6
+vop_log
+R1
+!i10b 1
+!s100 6DI7Ub>[CG[dUb?Dk`7CX0
+IRC?7Wd1GGGaZd?PHnbIT83
+R2
+R0
+w1768472611
+8C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/op_log.v
+FC:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/op_log.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/op_log.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/op_log.v|
+!i113 1
+R5
+R6
+vshifter
+R1
+!i10b 1
+!s100 <a1c@oRgEKYG2a2BEcX<c0
+IFhZVP?BS939_WcV3J9aML2
+R2
+R0
+w1768474044
+8C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/shifter.v
+FC:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/shifter.v|
+!s90 -reportprogress|300|-work|work|C:/Facultate anul 4/PC/Laboratoare/ALU_FINAL_TERMINAT/shifter.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,13 @@
+Mon Jan 12 18:57:32 EET 2026
+Trace back: unable to begin drag operation: no source types have been bound to .main_pane.structure.interior.cs.body.struct.lwchildsite.clipper.canvas
+    while executing
+"dnd drag $w"
+    (object "::.main_pane.structure.interior.cs.body.struct" method "::vsimwidgets::Hierarchy::_buttonMotion1" body line 13)
+    invoked from within
+"::.main_pane.structure.interior.cs.body.struct _buttonMotion1 .main_pane.structure.interior.cs.body.struct.lwchildsite.clipper.canvas 256 263 93"
+    (in namespace inscope "::vsimwidgets::Hierarchy" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _buttonMotion1 .main_pane.structure.interior.cs.body.struct..."
+    (command bound to event)
+  <2:C:/intelFPGA/18.1/modelsim_ase/win32aloem/tk8.5/bgerror.tcl:92: ::tkerror {unable to begin drag operation: no source types have been bound to .main_pane.structure.interior.cs.body.struct.lwchildsite.clipper.canvas}
+  <1:eval:1: ::tk::dialog::error::bgerror {unable to begin drag operation: no source types have been bound to .main_pane.structure.interior.cs.body.struct.lwchildsite.clipper.canvas}
